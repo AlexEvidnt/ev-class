@@ -1,1 +1,7 @@
+pandas
+numpy
 streamlit
+rapidfuzz
+scikit-learn
+scipy
+tqdm
